@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: bisque;
+}
+
+h1 {
+  color: darkgray;
+}
+
+.search .form button:hover {
+  background: #ccc;
+}
+
+.search input {
+  border: 1px solid #ccc;
+}
